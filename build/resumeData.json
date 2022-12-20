@@ -113,25 +113,25 @@
       {
         "title":"Portfolio",
         "category":"My resume",
-        "image":"01.jpg",
+        "image":"portfolio.png",
         "url":"https://portfolio-website-lqsp.vercel.app/"
       },
       {
         "title":"Airbnb clone",
         "category":"School project",
-        "image":"02.jpg",
+        "image":"airbnb.png",
         "url":"https://musyoki12.github.io/"
       },
       {
         "title":"Blazzers",
         "category":"Website Ibuilding for a charity group called blazzers",
-        "image":"03.jpg",
+        "image":"blazzers.png",
         "url":"https://blazzers.vercel.app/"
       },
       {
         "title":"Bus Booking",
         "category":"A React and Ruby  basedBus bus booking project ",
-        "image":"04.jpg",
+        "image":"bus.png",
         "url":"https://bus-booking-app-alpha.vercel.app/"
       },
       {

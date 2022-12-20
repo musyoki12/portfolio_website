@@ -8,18 +8,18 @@
     "email": "vincenbryaniel@gmail.com",
     "phone": "+254 710581338",
     "github":"https://github.com/musyoki12/",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://portfolio-website-lqsp.vercel.app/",
     "linkdlen":"https://www.linkedin.com/in/bryan-musyoki-a31077213",
     "address":{
       "country":"Kenya",
       "city":"Nairobi"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://portfolio-website-lqsp.vercel.app/",
+    "resumedownload":"https://drive.google.com/drive/u/0/my-drive",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/vincent.musyoki.353",
         "className":"fa fa-facebook"
       },
       {
@@ -113,32 +113,32 @@
       {
         "title":"Portfolio",
         "category":"My resume",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"portfolio.png",
+        "url":"https://portfolio-website-lqsp.vercel.app/"
       },
       {
         "title":"Airbnb clone",
         "category":"School project",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"airbnb.png",
+        "url":"https://musyoki12.github.io/"
       },
       {
         "title":"Blazzers",
         "category":"Website Ibuilding for a charity group called blazzers",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "image":"blazzers.png",
+        "url":"https://blazzers.vercel.app/"
       },
       {
         "title":"Bus Booking",
         "category":"A React and Ruby  basedBus bus booking project ",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"bus.png",
+        "url":"https://bus-booking-app-alpha.vercel.app/"
       },
       {
         "title":"Franhel Home Retouch",
-        "category":"a flatform for home bulders to market their products  .",
+        "category":"a flatform for home builders to market their services  .",
         "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://franhel-home.herokuapp.com/"
       }
      
     ]
