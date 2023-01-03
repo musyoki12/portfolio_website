@@ -87,7 +87,10 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                    <button className="submit">Submit</button>
+                  {/* <a href="mailto:vincenbryaniel@gmail.com"/><button className="submit">Submit</button> */}
+                  <a href="mailto:vincenbryaniel@gmail.com">
+          <button className="submit">Submit</button>
+        </a>
                     <span id="image-loader">
                       <img alt="" src="images/loader.gif" />
                     </span>
@@ -122,10 +125,10 @@ class Contact extends Component {
                 <ul id="twitter">
                   <li>
                     <span>
-                      This is Photoshop's version of Lorem Ipsum. Proin gravida
-                      nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                      quis bibendum auctor, nisi elit consequat ipsum
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                    What if there was a way to keep track of your child's vaccination 
+                    progress? Join us as we unveil iChanjo on the 18th and 19th of November
+                     in Kenya's biggest innovation platform  ✨JKUAT TECH EXPO 11th Edition✨
+                      <a href="./">https://twitter.com/</a>
                     </span>
                     <b>
                       <a href="./">2 Days Ago</a>

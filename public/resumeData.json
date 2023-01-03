@@ -2,9 +2,9 @@
   "main": {
     "name":"Resume",
     "description":"I am a web development engineer and I'm proficient in Javascript,python,React and Ruby.",
-    "image":"profilepic.jpg",
+    "image":"passport.jpg",
     "bio":"I'm a Software Developer ,system Administrator and Networ Administor .",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Get in Touch.",
     "email": "vincenbryaniel@gmail.com",
     "phone": "+254 710581338",
     "github":"https://github.com/musyoki12/",
